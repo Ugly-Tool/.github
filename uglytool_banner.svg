@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="title">
+  <title id="title">ugly // tool — dress the tool. fix the face.</title>
+
+  <defs>
+    <pattern id="dots2" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#ffffff" fill-opacity="0.04"></circle>
+    </pattern>
+  </defs>
+
+  
+  <rect x="0" y="0" width="1280" height="80" fill="#f0ede6"></rect>
+  <rect x="0" y="80" width="1280" height="40" fill="#ffffff"></rect>
+  <rect x="0" y="120" width="1280" height="520" fill="#141311"></rect>
+  <rect x="0" y="120" width="1280" height="520" fill="url(#dots2)"></rect>
+  <rect x="0" y="72" width="1280" height="16" fill="#c17f3a"></rect>
+  <rect x="0" y="112" width="1280" height="16" fill="#c17f3a"></rect>
+
+  
+  <text x="1230" y="55" text-anchor="end" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" font-size="18" letter-spacing="5" fill="#5a5650">
+    // THREE LOOKS · ONE TOOL
+  </text>
+
+  
+  <text x="1230" y="340" text-anchor="end" font-family="&#39;Space Grotesk&#39;, -apple-system, system-ui, sans-serif" font-weight="700" font-size="148" letter-spacing="-4" fill="#f5f0e6">
+    ugly <tspan fill="#c17f3a" font-weight="500">//</tspan> tool
+  </text>
+
+  
+  <text x="1230" y="410" text-anchor="end" font-family="&#39;Playfair Display&#39;, Georgia, serif" font-style="italic" font-weight="500" font-size="46" fill="#c17f3a" letter-spacing="0.5">
+    dress the tool. fix the face.
+  </text>
+
+  
+  <g>
+    <text x="1230" y="475" text-anchor="end" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" font-size="12" letter-spacing="2.5" fill="#5a5650">VELLUM · CLEAN ROOM · AFTER HOURS</text>
+    <g transform="translate(990 490)">
+      <rect x="0" y="0" width="60" height="14" fill="#f0ede6"></rect>
+      <rect x="60" y="0" width="60" height="14" fill="#ffffff"></rect>
+      <rect x="120" y="0" width="60" height="14" fill="#c17f3a"></rect>
+      <rect x="180" y="0" width="60" height="14" fill="#141311" stroke="#3a342d" stroke-width="1"></rect>
+    </g>
+  </g>
+
+  
+  
+
+  
+  <text x="1230" y="600" text-anchor="end" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" font-size="15" letter-spacing="3" fill="#8a8278">uglytool.dev</text>
+</svg>
